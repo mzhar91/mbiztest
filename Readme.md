@@ -32,3 +32,4 @@
 * Copy all file under **www** folder to your **webroot** folder
 * Go to {app_folder}
 * Run : composer dump-autoload
+* Access : http://{server_name}{port}
