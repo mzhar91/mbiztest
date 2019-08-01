@@ -1,0 +1,17 @@
+{
+	"name": "mbztest/persoalan",
+	"description": "Test Mbiz",
+	"type": "trial",
+	"authors": [
+		{
+			"name": "Harry Kurniawan",
+			"email": "k.harry791@gmail.com"
+		}
+	],
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"Persoalan\\": "src/"
+		}
+	}
+}
